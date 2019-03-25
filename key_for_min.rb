@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
   if val < b
     b= val
     a = key
-  endleamr
+  end
  end
  a
 end
